@@ -24,38 +24,16 @@ Este projeto é um dashboard de vendas desenvolvido no Power BI, com foco em an�
 
 ---
 
-## 📷 Screenshot do Dashboard
-
-# 📊 Sales Dashboard - Power BI
-
-Este projeto é um dashboard de vendas desenvolvido no Power BI, com foco em análise temporal, geográfica e indicadores de performance.
-
----
-
-## 🎯 Objetivos do Projeto
-
-- Analisar a receita ao longo dos meses;
-- Visualizar o volume de vendas por estado;
-- Identificar a média de preço por unidade;
-- Praticar a criação de dashboards interativos no Power BI.
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
-- Power BI
-- DAX para medidas (receita, unidades, preço médio)
-- Gráficos de colunas e mapa geográfico
-- Excel (base de dados simulada)
-
----
-
 ##  Screenshot do Dashboard
-
 
 ![image](https://github.com/user-attachments/assets/9ff691dc-a0b0-4adb-8a8b-7a898e4832b8)
 
-
+---
+## Probleminha que eu tive com a parte do mapa.
+  se tiver enfrentando algum problema, é bem simples de resolver.
+ - só ir em aquivo > opções e configurações > opções> Global> Segurança
+ - só marcar a opção "mapa e visuais de Mapa preenchido"
+   
 
 ---
 
